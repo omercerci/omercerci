@@ -8,7 +8,7 @@
 - 3D VR multiplayer game development.
 - Frontend and backend website development.
 - Discord and bot development,
-- 🏔️ and a bunch of engineering curriculum teachings.
+- 🏔️ and a bunch of engineering curriculum teachings.a
 
 
 ##  🖥️ Working on
